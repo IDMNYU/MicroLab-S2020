@@ -1,0 +1,15 @@
+docs:
+  - title: "Weekly Schedule"
+    url: /_pages/calendar.html
+  - title: "Syllabus"
+    url: /_pages/syllabus.html
+  - title: "Guidelines"
+    children:
+    - title: "Midterm Paper"
+      url: /_pages/paper.html
+    - title: "Group Project"
+      url: /_pages/group-project.html
+  - title: "Assignments"
+    url: /_pages/readings.html
+  - title: "Previous Projects"
+    url: /_pages/projects.html
