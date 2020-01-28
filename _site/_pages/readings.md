@@ -3,6 +3,14 @@ ___
 
 Readings, if not linked here, can be found in our shared [Course Materials](https://drive.google.com/open?id=1JkXLfCmQZmaJEt2BnKQ9SHhmQrCpUTgi) folder 
 
+
+### Due Wweek 1
+
+In preparation for the guest lecture by Mary Maggic, please see: 
+[Open Source Estrogen 2015](http://maggic.ooo/Open-Source-Estrogen-2015)
+
+[Housewives Making Drugs](https://www.media.mit.edu/projects/housewives-making-drugs/overview/)
+
 ### Due Week 2
 
 Assignment:
@@ -16,9 +24,7 @@ Find and document elements of your environment that illustrate orders of magnitu
 Reading for class: 
 - Karen Barad, [Feminist Interventions in Understanding Scientific Practices](https://drive.google.com/open?id=1JTzqc1XdRvcgQk2VNmA5L7DV0HM7qn_d)
  
-In preparation for the guest lecture by Mary Maggic, please see: 
-http://maggic.ooo/Open-Source-Estrogen-2015
-https://www.media.mit.edu/projects/housewives-making-drugs/overview/
+
 
 ### Due Week 3
 
