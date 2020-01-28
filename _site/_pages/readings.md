@@ -4,7 +4,7 @@ ___
 Readings, if not linked here, can be found in our shared [Course Materials](https://drive.google.com/open?id=1JkXLfCmQZmaJEt2BnKQ9SHhmQrCpUTgi) folder 
 
 
-### Due Wweek 1
+### Due Week 1
 
 In preparation for the guest lecture by Mary Maggic, please see: 
 [Open Source Estrogen 2015](http://maggic.ooo/Open-Source-Estrogen-2015)
