@@ -28,17 +28,16 @@ Reading for class:
 
 ### Due Week 3
 
-Reading for assignment: 
-    - Introduction to Ian Cheng's book Emissaries Guide to Worlding (in our shared Drive folder)  
-    - https://www.ribbonfarm.com/2019/03/05/worlding-raga-2-what-is-a-world/
+Find a companion species to accompany you throughout the semester. You will grow some kind of microorganism in your home or in the lab at IDM.
 
+Some suggestions are:
+- grow a kombucha culture
+- start a sourdough starter
+- ferment your own yogurt
+- grow mycelium
 
-Assignment:
-Using the swabs and sample tubes provided in class, take samples from 3 different locations and visualize them with your lab partner using the microscope we assembled in class.   
-    - deliverable 1: turn in a "photo reel" of 24 images for each sample, varying the location on the slide, the lighting intensity and direction. Highlight your 3 favorites as Edit1.jpg, Edit2.jpg, Edit3.jpg  
-    -  deliverable 2: write up a lab report describing the experiment, including location, type of sample, methods used, and your interpretation of what you have imaged.  
-    -  deliverable 3: select one or more images from each of the sites you sampled and, based on these images, write a short "worlding" story about each site. Each story should be at least 250 words long. 
-    
+You will include updates on your companion species every week from now on. How does the relationship evolve? When is it happy and when is it not? How do you know that? How do environmental factors affect it? How does it change your daily habits? 
+
 
 
 Reading for class:
@@ -49,7 +48,19 @@ Background information about the Gowanus Canal SuperFund site:
 
 ### Due Week 4
 
-Assignment: 
+Reading for assignment: 
+    - Introduction to Ian Cheng's book Emissaries Guide to Worlding (in our shared Drive folder)  
+    - [Ribbon Farm post](https://www.ribbonfarm.com/2019/03/05/worlding-raga-2-what-is-a-world/)
+
+
+Assignment 1:
+Using the swabs and sample tubes provided in class, take samples from 3 different locations and visualize them with your lab partner using the microscope we assembled in class.   
+- deliverable 1: turn in a "photo reel" of 24 images for each sample, varying the location on the slide, the lighting intensity and direction. Highlight your 3 favorites as Edit1.jpg, Edit2.jpg, Edit3.jpg  
+- deliverable 2: write up a lab report describing the experiment, including location, type of sample, methods used, and your interpretation of what you have imaged.  
+- deliverable 3: select one or more images from each of the sites you sampled and, based on these images, write a short "worlding" story about each site. Each story should be at least 250 words long. 
+
+
+Assignment 2: 
 - Outline of research paper
 
 Reading for class:
